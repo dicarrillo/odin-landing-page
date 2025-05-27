@@ -101,7 +101,7 @@ a {
 
 .section-2 .books {
     margin-top: 40px;
-    margin-bottom: 60px;
+    margin-bottom: 30px;
     display: flex;
     justify-content: center;
     gap: 20px;
@@ -122,6 +122,10 @@ a {
     border: 3px solid dodgerblue;
     border-radius: 10px;
 }
+
+/* .section-3 {
+    background: #E5E7EB;
+} */
 
 .footer {
     background: #1F2937;
