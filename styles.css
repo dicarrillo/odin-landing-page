@@ -153,6 +153,41 @@ a {
     font-weight: bold;
 }
 
+.section-4 {
+    padding: 90px;
+    display: flex;
+    justify-content: center;
+}
+
+.section-4 .content {
+    background: dodgerblue;
+    color: white;
+    width: 900px;
+    border-radius: 10px;
+    padding: 50px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.section-4 .content .left-side {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.section-4 .content .left-side .heavy {
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.section-4 a {
+    color: white;
+    border: 2px solid white;
+    border-radius: 7px;
+    padding: 5px 30px;
+}
+
 .footer {
     background: #1F2937;
     color: white;
