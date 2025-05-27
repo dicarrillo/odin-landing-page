@@ -123,6 +123,10 @@ a {
     border-radius: 10px;
 }
 
+.section-2 .book-title {
+    font-style: italic;
+}
+
 .section-3 {
     background: #E5E7EB;
     padding-top: 120px;
