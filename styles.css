@@ -83,7 +83,7 @@ a {
 
 .section-1 .content a {
     color: white;
-    background-color: dodgerblue;
+    background-color: #3882F6;
     padding: 5px 15px;
     border-radius: 8px;
 }
@@ -119,7 +119,7 @@ a {
 .section-2 img {
     height: 200px;
     width: auto;
-    border: 3px solid dodgerblue;
+    border: 3px solid #3882F6;
     border-radius: 10px;
 }
 
@@ -160,7 +160,7 @@ a {
 }
 
 .section-4 .content {
-    background: dodgerblue;
+    background: #3882F6;
     color: white;
     width: 900px;
     border-radius: 10px;
